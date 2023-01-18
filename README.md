@@ -1,6 +1,6 @@
 # Google-website
 
-- html, CSS만 사용
+- html, CSS 사용
 - [사이트 보기](https://heeye-log.github.io/Google-website/)
 
 <div> - 원본</div>
