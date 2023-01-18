@@ -1,4 +1,4 @@
-# Google-website 따라하기
+# Google-website
 
 - html, CSS만 사용
 
