@@ -1,7 +1,7 @@
 # Google-website
 
 ### Introduction
-- Google-website 클론 사이트 만들면서 학습하기
+- Google-website 클론 사이트 만들면서 학습
 
 ### Demo
 - Github 통해서 배포
